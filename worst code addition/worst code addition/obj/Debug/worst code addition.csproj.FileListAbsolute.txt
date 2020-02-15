@@ -1,0 +1,14 @@
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\obj\Debug\worst code addition.csprojAssemblyReference.cache
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\obj\Debug\worst code addition.csproj.CoreCompileInputs.cache
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\bin\Debug\worst code addition.exe.config
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\bin\Debug\worst code addition.exe
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\bin\Debug\worst code addition.pdb
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\obj\Debug\worst code addition.exe
+C:\Users\Anders Gaarsdal\Documents\Git\worst code addition\worst code addition\obj\Debug\worst code addition.pdb
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\bin\Debug\worst code addition.exe.config
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\bin\Debug\worst code addition.exe
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\bin\Debug\worst code addition.pdb
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\obj\Debug\worst code addition.csprojAssemblyReference.cache
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\obj\Debug\worst code addition.csproj.CoreCompileInputs.cache
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\obj\Debug\worst code addition.exe
+C:\Users\Anders Gaarsdal\Documents\Git\Peergrade-Anders-G\worst code addition\worst code addition\obj\Debug\worst code addition.pdb
